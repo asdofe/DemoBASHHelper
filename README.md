@@ -4,12 +4,17 @@
 ## Just like motion video
 
 ---
-* How to use ?
+### How to use ?
+
 
 ```sh
 python play.py
 ```
 
-It will ask you the file name and you just tell it the bash script file name, then it will
+### It will ask you the file name and you just tell it the bash script file name, then it will
 play.
+
+---
+### TODO
+* use the environment variable problem (it doesn't work now)
 
